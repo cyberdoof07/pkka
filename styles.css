@@ -1,0 +1,54 @@
+/* Copyright Yura Akinfiev, 2021 */
+
+body {
+    background: #5072EE;
+    /* background-image: url(img/katalisator1.jpg); */
+}
+
+.content {
+    max-width: 1140px;
+    margin: 0 auto;
+    /* background: #ffffff; */
+    min-width: 320px;
+    background: rgba(255, 255, 255);
+}
+
+#logo_text{
+    margin: 0 auto;
+}
+
+#logo{
+    max-width: 1140px;
+    margin: 0 auto;
+    position: relative;
+    width:100%;
+    height:100%;
+    min-width: 100%;
+    margin-left: 0px;
+    /* background: white; */
+    padding-top: 15px;
+}
+
+img{
+    object-position: center;
+    object-fit: contain;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#name{
+    position: relative;
+    text-align: center;
+    color: #1D689B;
+    font-family: Calibri, sans-serif;
+    font-weight: bold;
+}
+
+#telephone{
+    position: absolute;
+}
+
+h1{
+    font-size: 100%;
+}
